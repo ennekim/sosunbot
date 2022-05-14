@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# 소선봇
+## 소선봇 페이지에 오신 것을 환영합니다.
+### 궁금한 점이 있다면 챗봇을 통해 물어보세요!
+
+소선의 학교 정보, 급식 메뉴와 영양 정보, 선생님 등의 자료를 알아볼 수 있습니다.
 
 You can use the [editor on GitHub](https://github.com/ennekim/sosunbot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
